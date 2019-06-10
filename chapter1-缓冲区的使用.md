@@ -36,6 +36,56 @@
 ### 1.4.17 复制缓冲区
 ### 1.4.18 对缓冲区进行扩容
 
+## 1.5 CharBuffer类的API使用
+### 1.5.1 重载append(char)/ append(CharSequence)/ append(CharSequence, start, end)方法的使用
+### 1.5.2 读取相对于当前位置的定索引出的字符
+### 1.5.3 put(String src) int read(CharBuffer target) 和 subSequence(int stat, int end)方法的使用
+### 1.5.4 static CharBuffer wrap(CharSequence csq, int start, int end)
+
+- 将字符序列包装到缓冲区。
+- 
+
+
+
+### 1.5.5 获取字符缓冲区的长度
+
+- public final int length(): 返回缓冲区的长度。缓冲区还剩下的字符长度。
+  - 缓冲区为字符序列：长度 == remainning(), 当前位置到limit之间的字符数。
+
+```java
+
+```
+
+
+
+## 1.6 小结
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
