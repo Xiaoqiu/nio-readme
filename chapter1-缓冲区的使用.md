@@ -16,3 +16,27 @@
 	- position(位置)：position > limit; 则position设置为新的limit。
 	- mark(标记)：mark > limit; 则丢弃该mark.
 	- 大小关系：0 <= mark <= position <= limit <= capacity
+## 1.4 ByteBuffer类的使用
+### 1.4.1 创建堆缓冲区与直接缓冲区
+### 1.4.2 直接缓冲区与非直接缓冲区的运行效率比较
+### 1.4.3 包装wrap数据的处理
+### 1.4.4 put（byte b) 和get() 方法的使用与position自增特性
+### 1.4.5 put(byte[] src, int offset, int length) 和 get(byte[] dst, int offset, int length)方法的使用
+### 1.4.6 put(byte[] src) get(byte[] dst) 
+### 1.4.7 put(int index, byte[] b) get(int index, byte[] b)
+### 1.4.8 put(ByteBuffer src) 
+### 1.4.9 putType() getType()__
+### 1.4.10 slice() arrayOffSet()为非0的测试
+### 1.4.11 转换为CharBuffer字符缓冲区以及中文处理
+### 1.4.12 转换为其他类型的缓冲区
+### 1.4.13 设置与获得字节顺序
+### 1.4.14 创建只读缓冲区
+### 1.4.15 压缩缓冲区
+### 1.4.16 比较缓冲区内容
+### 1.4.17 复制缓冲区
+### 1.4.18 对缓冲区进行扩容
+
+
+
+
+
