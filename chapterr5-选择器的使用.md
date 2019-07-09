@@ -52,6 +52,44 @@
 
 ### 5.8.7 从已经准备就绪的健集合中获得通道中的数据
 
+### 5.8.8 对相同的通道注册不同的相关事件返回同一个SelectionKey
+
+### 5.8.9 判断选择器是否为打开状态
+- isOpen(): 只有打开时返回true
+- close() : 关闭
+    - 所有与选择器关联的键无效，键对应的通道取消，健对应的所有资源释放。
+    - 已经关闭的选择器，close()方法无效。
+    - 已经关闭的选择器，其他方式调用选择器，抛出ClosedSelectorException,
+    - 已经关闭的选择器,可以调用wakeup()方法
+
+### 5.8.10 获得SelectorProvider provider对象
+- public abstract SelectorProvider provider()：方法的作用是返回创建此通道的提供者
+
+### 5.8.11 返回此选择器的健集
+- keys(): 返回选择器的健集合，不可以直接修改集合，
+    - 已经取消某个键并且已注销通道后才移除这个建。
+    - 试图修改健集合会抛出UnsupportedOperationException
+    
+### 5.8.12 public abstract int select(long timeout)方法的使用
+- 方法是阻塞模式的
+- 方法返回条件：
+    - 至少选择一个通道，
+    - 调用wakeup()，
+    - 当前线程中断
+    - 给定的超时期限满
+- 不提供实时保证
+- 返回值：表示更新了准备就绪操作建集合的数目
+    
+    
+### 5.8.13 public abstract int selectNow()方法的使用
+- 非阻塞的选择操作
+- 选择操作，更新就绪通道的健
+- 上次选择操作后，没有通道变成就绪可以选择，直接返回0
+
+### 5.8.14 唤醒操作
+- public abstract Selector wakeup() : 
+    
+    
 
 
 

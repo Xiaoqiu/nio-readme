@@ -2,83 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="228187b6-515b-45bf-88fa-06661f669297" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapterr5-选择器的使用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/FileLockAPI_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/OpeMethod2Param_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/OpenMethod2Param_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test12_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test12_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test12_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test13_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test13_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test13_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test13_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test13_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test13_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test13_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test13_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test13_23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test13_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test13_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test13_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test13_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test13_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test13_5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test13_5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test14_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test14_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test15_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test16_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test16_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test16_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test16_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter2/Test16_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3/Section3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3/Section3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter3/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter4/Section4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter4/Section4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter4/Section4_3_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter4/Section4_3_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter4/Section4_4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter4/Sectione4_3_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter4/Userinfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_7_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_7_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_7_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_7_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_7_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_7_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_7_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_7_23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_7_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_7_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_7_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_7_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_7_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_7_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_7_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_7_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hdmaterial/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1-缓冲区的使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1-缓冲区的使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2-通道和fileChannel类的使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2-通道和fileChannel类的使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3-获取网络设备信息.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3-获取网络设备信息.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4-实现socket通信.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4-实现socket通信.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter6-AIO的使用" beforeDir="false" afterPath="$PROJECT_DIR$/aaa.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapterr5-选择器的使用" beforeDir="false" afterPath="$PROJECT_DIR$/chapter6-AIO的使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chapter1/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter1/Test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapterr5-选择器的使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapterr5-选择器的使用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chapter5/Section5_8_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chapter5/Section5_8_7.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -144,9 +77,10 @@
     <session id="1059230393">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="5" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="2" />
@@ -154,13 +88,13 @@
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="87" />
+          <entry key="java" value="94" />
           <entry key="md" value="12" />
           <entry key="png" value="3" />
           <entry key="txt" value="48" />
@@ -171,7 +105,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Image" value="3" />
-          <entry key="JAVA" value="87" />
+          <entry key="JAVA" value="94" />
           <entry key="Markdown" value="12" />
           <entry key="PLAIN_TEXT" value="48" />
           <entry key="XML" value="3" />
@@ -180,8 +114,8 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="13" />
-          <entry key="java" value="23764" />
-          <entry key="md" value="24596" />
+          <entry key="java" value="27079" />
+          <entry key="md" value="25471" />
           <entry key="txt" value="56" />
           <entry key="xml" value="4" />
         </counts>
@@ -189,8 +123,8 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Bash" value="8" />
-          <entry key="JAVA" value="24273" />
-          <entry key="Markdown" value="24079" />
+          <entry key="JAVA" value="27588" />
+          <entry key="Markdown" value="24954" />
           <entry key="PLAIN_TEXT" value="69" />
           <entry key="XML" value="4" />
         </counts>
@@ -203,52 +137,90 @@
         <entry file="file://$PROJECT_DIR$/chapterr5-选择器的使用.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="219">
-                <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+              <first_editor relative-caret-position="171">
+                <caret line="89" column="38" lean-forward="true" selection-start-line="89" selection-start-column="38" selection-end-line="89" selection-end-column="38" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_14.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="63" column="2" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#253#377#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_15.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_12.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="678">
+              <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-123">
+              <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="64" column="3" lean-forward="true" selection-start-line="59" selection-end-line="64" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="47" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="49" column="27" lean-forward="true" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="67" selection-end-column="3" />
+            <state relative-caret-position="306">
+              <caret line="65" column="19" lean-forward="true" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -259,7 +231,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
+            <state relative-caret-position="1218">
               <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -271,7 +243,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
+            <state relative-caret-position="870">
               <caret line="38" selection-start-line="38" selection-end-line="42" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -317,12 +289,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/b.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter2/Test13_17.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter2/Test13_16.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter2/Test13_11.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter2/Test13_10.java" />
-        <option value="$PROJECT_DIR$/src/main/java/chapter2/Test13_5_1.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter2/Test13_5_2.java" />
         <option value="$PROJECT_DIR$/chapter2-通道和fileChannel类的使用.md" />
         <option value="$PROJECT_DIR$/src/main/java/chapter2/Test13_3.java" />
@@ -366,8 +332,14 @@
         <option value="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_3.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_5.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_6.java" />
-        <option value="$PROJECT_DIR$/chapterr5-选择器的使用.md" />
         <option value="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_8.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_10.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_11.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_12.java" />
+        <option value="$PROJECT_DIR$/chapterr5-选择器的使用.md" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_14.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter5/Section5_8_15.java" />
       </list>
     </option>
   </component>
@@ -396,9 +368,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="127" />
-    <option name="y" value="23" />
-    <option name="width" value="1169" />
+    <option name="x" value="722" />
+    <option name="y" value="24" />
+    <option name="width" value="751" />
     <option name="height" value="801" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -408,7 +380,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -433,6 +404,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nio" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demo" type="b2602c69:ProjectViewProjectNode" />
@@ -498,6 +477,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -524,7 +504,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Section5_8_6.client2">
+  <component name="RunManager" selected="JUnit.Section5_8_14.test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -537,7 +517,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Section5_8_3.client1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Section5_8_10.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -546,15 +526,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="chapter5" />
-      <option name="MAIN_CLASS_NAME" value="chapter5.Section5_8_3" />
-      <option name="METHOD_NAME" value="client1" />
+      <option name="MAIN_CLASS_NAME" value="chapter5.Section5_8_10" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Section5_8_5.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Section5_8_11.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -563,15 +543,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="chapter5" />
-      <option name="MAIN_CLASS_NAME" value="chapter5.Section5_8_5" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="chapter5.Section5_8_11" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Section5_8_6.client1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Section5_8_12.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -580,15 +560,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="chapter5" />
-      <option name="MAIN_CLASS_NAME" value="chapter5.Section5_8_6" />
-      <option name="METHOD_NAME" value="client1" />
+      <option name="MAIN_CLASS_NAME" value="chapter5.Section5_8_12" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Section5_8_6.client2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Section5_8_14.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -597,15 +577,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="chapter5" />
-      <option name="MAIN_CLASS_NAME" value="chapter5.Section5_8_6" />
-      <option name="METHOD_NAME" value="client2" />
+      <option name="MAIN_CLASS_NAME" value="chapter5.Section5_8_14" />
+      <option name="METHOD_NAME" value="client" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Section5_8_6.server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Section5_8_14.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -614,8 +594,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="chapter5" />
-      <option name="MAIN_CLASS_NAME" value="chapter5.Section5_8_6" />
-      <option name="METHOD_NAME" value="server" />
+      <option name="MAIN_CLASS_NAME" value="chapter5.Section5_8_14" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -708,19 +688,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.Section5_8_3.client1" />
-      <item itemvalue="JUnit.Section5_8_5.test1" />
-      <item itemvalue="JUnit.Section5_8_6.server" />
-      <item itemvalue="JUnit.Section5_8_6.client1" />
-      <item itemvalue="JUnit.Section5_8_6.client2" />
+      <item itemvalue="JUnit.Section5_8_10.test" />
+      <item itemvalue="JUnit.Section5_8_11.test" />
+      <item itemvalue="JUnit.Section5_8_12.test" />
+      <item itemvalue="JUnit.Section5_8_14.test" />
+      <item itemvalue="JUnit.Section5_8_14.client" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Section5_8_6.client2" />
-        <item itemvalue="JUnit.Section5_8_6.client1" />
-        <item itemvalue="JUnit.Section5_8_6.server" />
-        <item itemvalue="JUnit.Section5_8_5.test1" />
-        <item itemvalue="JUnit.Section5_8_3.client1" />
+        <item itemvalue="JUnit.Section5_8_14.test" />
+        <item itemvalue="JUnit.Section5_8_14.client" />
+        <item itemvalue="JUnit.Section5_8_12.test" />
+        <item itemvalue="JUnit.Section5_8_11.test" />
+        <item itemvalue="JUnit.Section5_8_10.test" />
       </list>
     </recent_temporary>
   </component>
@@ -751,63 +731,64 @@
       <workItem from="1562204800356" duration="10446000" />
       <workItem from="1562233985187" duration="2129000" />
       <workItem from="1562285548156" duration="18659000" />
-      <workItem from="1562386939182" duration="11576000" />
+      <workItem from="1562386939182" duration="11830000" />
+      <workItem from="1562631417971" duration="10198000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Section5_8_6_client2 - 2019.07.08 at 17h 15m 30s.xml">
-      <configuration name="Section5_8_6.client2" configurationId="JUnit" />
+    <history-entry file="Section5_8_8_server - 2019.07.09 at 09h 27m 14s.xml">
+      <configuration name="Section5_8_8.server" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Section5_8_6_server - 2019.07.08 at 17h 15m 51s.xml">
-      <configuration name="Section5_8_6.server" configurationId="JUnit" />
+    <history-entry file="Section5_8_10_test - 2019.07.09 at 09h 40m 25s.xml">
+      <configuration name="Section5_8_10.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Section5_8_6_client1 - 2019.07.08 at 17h 16m 12s.xml">
-      <configuration name="Section5_8_6.client1" configurationId="JUnit" />
+    <history-entry file="Section5_8_11_test - 2019.07.09 at 09h 54m 56s.xml">
+      <configuration name="Section5_8_11.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Section5_8_6_client2 - 2019.07.08 at 17h 16m 58s.xml">
-      <configuration name="Section5_8_6.client2" configurationId="JUnit" />
+    <history-entry file="Section5_8_12_test - 2019.07.09 at 10h 07m 46s.xml">
+      <configuration name="Section5_8_12.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Section5_8_6_client2 - 2019.07.08 at 17h 17m 19s.xml">
-      <configuration name="Section5_8_6.client2" configurationId="JUnit" />
+    <history-entry file="Section5_8_14_test - 2019.07.09 at 11h 10m 17s.xml">
+      <configuration name="Section5_8_14.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Section5_8_6_server - 2019.07.08 at 17h 17m 27s.xml">
-      <configuration name="Section5_8_6.server" configurationId="JUnit" />
+    <history-entry file="Section5_8_14_test - 2019.07.09 at 11h 13m 12s.xml">
+      <configuration name="Section5_8_14.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Section5_8_6_client1 - 2019.07.08 at 17h 17m 40s.xml">
-      <configuration name="Section5_8_6.client1" configurationId="JUnit" />
+    <history-entry file="Section5_8_14_test - 2019.07.09 at 11h 14m 11s.xml">
+      <configuration name="Section5_8_14.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Section5_8_6_client2 - 2019.07.08 at 17h 17m 44s.xml">
-      <configuration name="Section5_8_6.client2" configurationId="JUnit" />
+    <history-entry file="Section5_8_14_client - 2019.07.09 at 11h 14m 11s.xml">
+      <configuration name="Section5_8_14.client" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Section5_8_6_client2 - 2019.07.08 at 17h 18m 40s.xml">
-      <configuration name="Section5_8_6.client2" configurationId="JUnit" />
+    <history-entry file="Section5_8_14_test - 2019.07.09 at 11h 14m 40s.xml">
+      <configuration name="Section5_8_14.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Section5_8_6_server - 2019.07.08 at 17h 21m 53s.xml">
-      <configuration name="Section5_8_6.server" configurationId="JUnit" />
+    <history-entry file="Section5_8_14_test - 2019.07.09 at 11h 15m 32s.xml">
+      <configuration name="Section5_8_14.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145733000" />
+    <option name="totallyTimeSpent" value="156185000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="127" y="23" width="1169" height="801" extended-state="0" />
+    <frame x="722" y="24" width="751" height="801" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11801242" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22143865" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32627118" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.499187" visible="true" weight="0.4132581" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.499187" weight="0.27503526" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3441467" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32676056" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.325811" />
       <window_info anchor="bottom" id="Docker" order="9" />
       <window_info anchor="bottom" id="CheckStyle" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.500813" side_tool="true" weight="0.32909605" />
@@ -855,58 +836,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter3-获取网络设备信息.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="84">
-            <caret line="267" column="48" selection-start-line="267" selection-start-column="48" selection-end-line="267" selection-end-column="48" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter3/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter3/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter3/Test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="22" column="19" selection-start-line="12" selection-start-column="2" selection-end-line="37" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter3/Test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter3/Section3_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter3/Section3_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1392">
-          <caret line="61" column="27" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/qq.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -914,9 +843,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="12" selection-start-line="12" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -931,9 +857,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
           <caret line="561" column="35" selection-start-line="561" selection-start-column="35" selection-end-line="561" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -941,9 +864,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
           <caret line="145" column="13" selection-start-line="145" selection-start-column="13" selection-end-line="145" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -951,9 +871,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="59" column="34" lean-forward="true" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -968,9 +885,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="791">
           <caret line="42" column="11" lean-forward="true" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -984,9 +898,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
           <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1004,9 +915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1218">
           <caret line="48" selection-start-line="39" selection-end-line="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1014,9 +922,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="754">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1031,9 +936,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1041,9 +943,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="467">
           <caret line="28" column="76" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1051,9 +950,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1061,9 +957,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1096,9 +989,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
           <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1113,9 +1003,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1130,9 +1017,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="23" column="3" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="23" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1140,9 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1173,9 +1054,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1183,9 +1061,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1193,29 +1068,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="38" selection-start-line="38" selection-end-line="42" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1226,10 +1078,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hdmaterial/Test1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="47" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="49" column="27" lean-forward="true" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
+        <state relative-caret-position="1131">
+          <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1238,18 +1101,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="67" selection-end-column="3" />
+        <state relative-caret-position="1450">
+          <caret line="62" selection-start-line="62" selection-end-line="67" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_6.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="47" selection-end-column="56" />
+        <state relative-caret-position="1218">
+          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="38" selection-start-line="38" selection-end-line="42" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1259,17 +1132,79 @@
     <entry file="file://$PROJECT_DIR$/chapterr5-选择器的使用.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="219">
-            <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+          <first_editor relative-caret-position="171">
+            <caret line="89" column="38" lean-forward="true" selection-start-line="89" selection-start-column="38" selection-end-line="89" selection-end-column="38" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123">
+          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="306">
+          <caret line="65" column="19" lean-forward="true" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="64" column="3" lean-forward="true" selection-start-line="59" selection-end-line="64" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="63" column="2" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#253#377#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter5/Section5_8_15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
