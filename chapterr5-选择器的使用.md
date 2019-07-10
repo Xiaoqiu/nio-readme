@@ -88,7 +88,66 @@
 
 ### 5.8.14 唤醒操作
 - public abstract Selector wakeup() : 
+
+## 5.9 SelectionKey类的使用
+### 5.9.1 判断是否允许连接SelectableChannel对象
+- public final boolean isAcceptable() : 测试这个健的通道是否已经准备好接受新的套接字连接
+- public final boolean isConnectable() : 测试这个健的通道是否已经完成其套接字连接操作
+- public abstract SelectableChannel channel() : 返回这个健关联的通道
+    - 即使已经取消这个键，仍然能返回这个通道
     
+###  5.9.2 判断是否已经准备好进行读取
+- public final boolean isReadable() : 测试这个键的通道是否已经准备好进行读取。
+
+###  5.9.3 判断是否已经准备好进行写入
+- public final boolean isWritable() : 测试这个键的通道是否已经准备好进行写入。
+
+### 5.9.4 返回SelectionKey关联的选择器
+- public abstract Selector selector() : 返回SelectionKey关联的选择器。
+    - 即使已经取消这个键，仍然能返回选择器
+
+### 5.9.5 在注册操作时传入attachment附件
+- 
+### 5.9.6 设置attachment附件
+- public final Object attach(Object ob) : 将给定的对象附加到此键
+
+### 5.9.7 获取与设置此键的interest集合
+- public abstract int interestOps() : 获取此键的interest集合。
+    - 返回的是操作位是对这个键对应的通道有效的。
+- public abstract SelectionKey interestOps(int ops) : 设置这个集合的值
+
+### 5.9.8 判断此键是否有效
+- public abstract boolean isValid() : 告知这个键是否有效
+    - 键被取消之前，有效
+    - 通道关闭之前，有效
+    - 选择器关闭之前，有效
+    
+### 5.9.9 获取这个键的ready操作集合
+- public abstract int readOps() : 获取这个键的ready操作集合
+    - 保证返回的集合仅仅包含对于这个（这个键对应的）通道有效的操作位。
+
+### 5.9.10 取消操作
+- public abstract void cancel(): 取消这个（这个键对应的）通道的到选择器的注册
+    - 一旦返回，这个键就是无效，并添加这个无效的建，到选择器的已取消键集合中。
+    - 下一次select()方法时，所有集合中移除这个无效的键。
+    - 如果已经取消了这个键，则调用这个方法无效
+    - isValid()返回false
+    - 可以任意时间调用cancel()方法
+    - 和select()方法并发调用，则可能cancel()方法会阻塞
+
+### 5.10 DatagramChannel类的使用
+### 5.10.1 使用DatagramChannel类实现UDP通信
+- 服务端操作： bind()
+    - 打开的DatagramChannel可以在UDP端口8888上接收数据包。
+### 5.10.2 连接操作
+- 客户端操作 ： public abstract DatagramChannel connect(SocketAddress ) ： 连接此通道的套接字
+- 可以将DatagramChannel“连接”到网络中的特定地址的。由于UDP是无连接的，
+- 连接到特定地址并不会像TCP通道那样创建一个真正的连接。而是锁住DatagramChannel ，让其只能从特定地址收发数据。
+
+### 5.10.3 断开连接
+- public abstract DatagramChannel disconnect() : 断开这个socket的链接
+
+
     
 
 
